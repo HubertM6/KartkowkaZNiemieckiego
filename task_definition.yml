@@ -5,7 +5,7 @@ limits:
   memory: 256000
 
 tasks:
-  task:
+  task_1:
     testedFunctionName: task
     userInputFilename: dane.txt
     userOutputFilename: wynik.txt
