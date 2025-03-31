@@ -21,10 +21,12 @@ oraz oczekiwania Pana Michała. W następnych n wierszach znajdują się liczby 
 Przykład:
 
 dla danych:
+```
 3 2
 0.2
 0.3
 0.4
+```
 
 poprawną odpowiedzią jest:
 84
