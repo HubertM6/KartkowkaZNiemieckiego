@@ -9,4 +9,4 @@ nie czuje się jeszcze w pełni gotowy na to wyzwanie przyszedł mu z pomocą P
 Quizleta. Obiecał też Panu Michałowi, że jeśli przerobi Quizleta k razy to dla początkowego prawdopodobieństwa
 zapamiętania zwrotu x, prawdopodobieństwo po skończeniu nauki fest określone funkcją:
 
-$`\sqrt{3x-1}+(1+x)^2`$
+![image](https://github.com/user-attachments/assets/bebd19c6-8988-4025-9bae-f24415ba922f)
